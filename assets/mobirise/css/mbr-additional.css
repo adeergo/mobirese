@@ -1548,11 +1548,10 @@ section.lazy-placeholder:after {
 }
 .cid-s552YIXeqf {
   background: #ffffff;
-  padding-top: 75px;
-  padding-bottom: 60px;
 }
 .cid-s552YIXeqf .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-s552YIXeqf .mbr-figure {
   margin: 0 auto;
